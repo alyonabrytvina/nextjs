@@ -1,0 +1,34 @@
+{
+  "articles": [
+    {
+      "header": "Британская короткошерстная",
+      "name": "British-Shorthair",
+      "preview": {
+        "src": "/images/british.png",
+        "width": 500,
+        "height": 300
+      },
+      "text": "Британская короткошерстная кошка — это крупная, сильная и компактная порода с короткой, густой шерстью. Они имеют круглую голову, крупные круглые глаза и короткую морщинистую мордочку. Характеризуются спокойным и уравновешенным характером."
+    },
+    {
+      "header": "Мейн-кун",
+      "name": "Maine-Coon",
+      "preview": {
+        "src": "/images/maine-coon.png",
+        "width": 500,
+        "height": 300
+      },
+      "text": "Мейн-кун — это крупная и мускулистая порода кошек с длинной двойной шерстью и характерными кисточками на ушах. Они имеют дружелюбный и ласковый характер, а также славятся своей сообразительностью."
+    },
+    {
+      "header": "Сиамская",
+      "name": "Siamese",
+      "preview": {
+        "src": "/images/siamese.png",
+        "width": 500,
+        "height": 300
+      },
+      "text": "The Siamese mix cat is a rare and unique cat breed that has been in existence for over 10 centuries. It was first bred in Thailand and was used as a guardian of the temple for their sacred nature. The Siamese cat was also offered as an exotic gift to the royalty. Over time, their popularity grew so immensely that many people are now dreaming of owning a Siamese cat. \n\nThere are a lot of striking features that make the Siamese cat any person’s favorite. Their elegance, enchanting look, and their elegance all work together in favor of this cat breed. However, if you are looking for a perfect Siamese mix cat breed, it is crucial to note that the Siamese has a more dominant gene structure. They are highly intelligent, demanding, and are not the type you can ignore. They hate being ignored and will get bored quite easily, thus turning destructive around the house. "
+    }
+  ]
+}
